@@ -1,0 +1,17 @@
+{
+  "domain": "the_keys",
+  "name": "The Keys",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/the_keys",
+  "requirements": [
+    "the-keyspy==0.0.9"
+  ],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@KevinBonnoron"
+  ],
+  "iot_class": "cloud_polling"
+}

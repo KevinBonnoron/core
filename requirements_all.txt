@@ -2306,6 +2306,9 @@ tesla-wall-connector==1.0.1
 # homeassistant.components.tensorflow
 # tf-models-official==2.5.0
 
+# homeassistant.components.the_keys
+the-keyspy==0.0.9
+
 # homeassistant.components.thermoworks_smoke
 thermoworks_smoke==0.1.8
 
